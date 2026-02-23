@@ -67,5 +67,3 @@ The Orchard remembers everything.
 
 *How deep does the rabbit hole go?*
 ```
-
-Tables render clean on GitHub. The triangle carries the weight the ASCII banner was trying to do.
