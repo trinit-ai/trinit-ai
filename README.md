@@ -1,5 +1,3 @@
-Yeah the block letters get mangled by GitHub's markdown renderer. Drop the ASCII banner, use the triangle and clean text instead:
-
 ```markdown
 # ▲ Trini.T AI
 
