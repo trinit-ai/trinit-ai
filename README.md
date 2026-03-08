@@ -5,7 +5,7 @@
 
 ───
 
-### MOS13 Recursive Orchard
+### Recursive Orchard
 
 13 interconnected systems. Infinite recursion depth. Stable loopback.
 
